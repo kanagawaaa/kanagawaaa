@@ -1,5 +1,5 @@
 <h1 align="center">Привет! Меня зовут Слава</h1>
-<h3 align="center">Я backend python разработчик из России</h3>
+<h3 align="center">Я <b>Python Backend Developer</b> из России</h3>
 
 - 🔭 Сейчас я работаю над [HectareSystem](https://github.com/HectareSystem)
 
