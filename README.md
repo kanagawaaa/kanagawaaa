@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Меня зовут Слава</h1>
 <h3 align="center">Я <b>Python Backend Developer</b> из России</h3>
 
-- 🔭 Сейчас активно работаю над [HectareSystem](https://github.com/HectareSystem)
+- 🔭 Ранее активно работал над [HectareSystem](https://github.com/HectareSystem)
 
 - 🌱 В настоящий момент осваиваю **Frontend, DevOps**
 
